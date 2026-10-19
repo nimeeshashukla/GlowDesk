@@ -1,0 +1,9 @@
+[
+  {"day": "Mon", "am_completed": true, "pm_completed": true},
+  {"day": "Tue", "am_completed": true, "pm_completed": false},
+  {"day": "Wed", "am_completed": true, "pm_completed": true},
+  {"day": "Thu", "am_completed": true, "pm_completed": true},
+  {"day": "Fri", "am_completed": false, "pm_completed": true},
+  {"day": "Sat", "am_completed": true, "pm_completed": true},
+  {"day": "Sun", "am_completed": true, "pm_completed": true}
+]

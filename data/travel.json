@@ -1,0 +1,44 @@
+[
+  {
+    "id": "TRV-1",
+    "item": "Clinique Take The Day Off Balm",
+    "volume_ml": 30,
+    "packed": true
+  },
+  {
+    "id": "TRV-2",
+    "item": "Minimalist Salicylic Face Wash",
+    "volume_ml": 100,
+    "packed": true
+  },
+  {
+    "id": "TRV-3",
+    "item": "COSRX Snail Mucin Essence",
+    "volume_ml": 100,
+    "packed": false
+  },
+  {
+    "id": "TRV-4",
+    "item": "Dot & Key Barrier Repair Cream Jar",
+    "volume_ml": 50,
+    "packed": true
+  },
+  {
+    "id": "TRV-5",
+    "item": "Hyphen All I Need Sunscreen",
+    "volume_ml": 50,
+    "packed": true
+  },
+  {
+    "id": "TRV-6",
+    "item": "Plum Green Tea Mist (Full Size Bottle)",
+    "volume_ml": 150,
+    "packed": false
+  },
+  {
+    "id": "TRV-7",
+    "item": "Laneige Lip Sleeping Mask Mini",
+    "volume_ml": 8,
+    "packed": true
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {"id": "DEP-01", "name": "Hydrocolloid Pimple Patches", "qty": 4, "threshold": 10, "status": "CRITICAL LOW"},
+  {"id": "DEP-02", "name": "Bella Organic Cotton Cloud Pads", "qty": 65, "threshold": 20, "status": "Healthy"},
+  {"id": "DEP-03", "name": "Dot & Key Barrier Ceramide Cream", "qty": 1, "threshold": 3, "status": "CRITICAL LOW"},
+  {"id": "DEP-04", "name": "Laneige Lip Sleep Mask Backups", "qty": 5, "threshold": 2, "status": "Healthy"},
+  {"id": "DEP-05", "name": "Soft Pastel Vanity Headbands", "qty": 8, "threshold": 2, "status": "Healthy"},
+  {"id": "DEP-06", "name": "Silicone Lip Scrub Spatulas", "qty": 14, "threshold": 5, "status": "Healthy"}
+]

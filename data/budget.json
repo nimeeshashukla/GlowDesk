@@ -1,0 +1,9 @@
+{
+  "monthly_limit": 5000,
+  "hauls": [
+    {"id": "H-1", "item": "Laneige Lip Glowy Balm", "category": "Lip Care", "cost": 750, "date": "2026-10-10"},
+    {"id": "H-2", "item": "Dot & Key Watermelon Sunscreen", "category": "Sunscreen", "cost": 495, "date": "2026-10-12"},
+    {"id": "H-3", "item": "Nykaa Sheet Masks Pack", "category": "Skincare", "cost": 300, "date": "2026-10-15"},
+    {"id": "H-4", "item": "Clinique Moisture Surge (15ml)", "category": "Skincare", "cost": 1050, "date": "2026-10-17"}
+  ]
+}

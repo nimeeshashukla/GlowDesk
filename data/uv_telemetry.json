@@ -1,0 +1,14 @@
+{
+  "campus_location": "Hostel Lawn & Central Library Courtyard",
+  "current_uv_index": 7.4,
+  "uv_risk_level": "High Sunshine ??",
+  "spf_reapply_timer_mins": 38,
+  "hourly_uv": [
+    {"time": "8 AM", "uv": 1.2},
+    {"time": "10 AM", "uv": 3.8},
+    {"time": "12 PM", "uv": 7.4},
+    {"time": "2 PM", "uv": 6.9},
+    {"time": "4 PM", "uv": 3.1},
+    {"time": "6 PM", "uv": 0.5}
+  ]
+}

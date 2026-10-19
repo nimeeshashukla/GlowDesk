@@ -1,0 +1,5 @@
+[
+  { "user_id": "USR-01", "name": "Nimeesha", "role": "Vanity Lead / Curator", "skin_type": "Combination / Sensitive" },
+  { "user_id": "USR-02", "name": "Dr. Miller", "role": "Derm Consultant", "skin_type": "Clinical Advisor" },
+  { "user_id": "USR-03", "name": "Guest Stylist", "role": "Junior Esthetician", "skin_type": "General Access" }
+]

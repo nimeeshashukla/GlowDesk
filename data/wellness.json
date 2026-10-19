@@ -1,0 +1,9 @@
+[
+  {"day": "Mon", "calories_in": 1950, "calories_burned": 420, "water_glasses": 8, "weight_kg": 54.2, "waist_in": 26.5},
+  {"day": "Tue", "calories_in": 1820, "calories_burned": 380, "water_glasses": 7, "weight_kg": 54.0, "waist_in": 26.4},
+  {"day": "Wed", "calories_in": 2050, "calories_burned": 510, "water_glasses": 9, "weight_kg": 53.9, "waist_in": 26.3},
+  {"day": "Thu", "calories_in": 1900, "calories_burned": 350, "water_glasses": 8, "weight_kg": 53.8, "waist_in": 26.3},
+  {"day": "Fri", "calories_in": 1780, "calories_burned": 390, "water_glasses": 6, "weight_kg": 53.8, "waist_in": 26.2},
+  {"day": "Sat", "calories_in": 2100, "calories_burned": 450, "water_glasses": 8, "weight_kg": 53.7, "waist_in": 26.2},
+  {"day": "Today", "calories_in": 1850, "calories_burned": 400, "water_glasses": 7, "weight_kg": 53.6, "waist_in": 26.1}
+]

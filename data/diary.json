@@ -1,0 +1,9 @@
+[
+  { "day": "Mon", "hydration": 85, "water_cups": 8, "redness": 2, "barrier_score": 88 },
+  { "day": "Tue", "hydration": 70, "water_cups": 6, "redness": 4, "barrier_score": 72 },
+  { "day": "Wed", "hydration": 60, "water_cups": 5, "redness": 6, "barrier_score": 64 },
+  { "day": "Thu", "hydration": 80, "water_cups": 7, "redness": 3, "barrier_score": 82 },
+  { "day": "Fri", "hydration": 55, "water_cups": 4, "redness": 7, "barrier_score": 58 },
+  { "day": "Sat", "hydration": 90, "water_cups": 9, "redness": 1, "barrier_score": 94 },
+  { "day": "Sun", "hydration": 85, "water_cups": 8, "redness": 2, "barrier_score": 89 }
+]
